@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"117_session_ok/assets"
-	"117_session_ok/models"
+	"117_smw_ok/assets"
+	"117_smw_ok/models"
 	"crypto/rand"
 	"fmt"
 	"html/template"

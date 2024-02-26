@@ -1,4 +1,4 @@
-module 117_session_ok
+module 117_smw_ok
 
 go 1.22.0
 

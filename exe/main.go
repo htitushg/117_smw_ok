@@ -1,8 +1,8 @@
 package main
 
 import (
-	"117_session_ok/assets"
-	"117_session_ok/controllers"
+	"117_smw_ok/assets"
+	"117_smw_ok/controllers"
 	"fmt"
 	"log"
 	"net/http"
